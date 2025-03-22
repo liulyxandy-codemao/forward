@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 tiny_http = "0.12"
-reqwest = {version = "0.12.12", features = ["blocking"]}
+reqwest = {version = "0.12.14", features = ["blocking"]}
 url = "2.5.4"
